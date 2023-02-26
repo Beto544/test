@@ -1,0 +1,4 @@
+Hunberto Pascual
+1. Yes, I have setup my own personal github account.
+2. I have not been able to push lab1 to my personal github, I will get it done today.
+3. Origin refers to the repository previously cloned.
